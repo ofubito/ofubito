@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ofubito
-- 👀 I’m interested in Telegram bots
-- 🌱 I’m currently learning aiogram/python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Golang && Python development.
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on - telegram: @Vyacheslavloo
 
 <!---
 ofubito/ofubito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
